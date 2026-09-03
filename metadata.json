@@ -1,0 +1,6 @@
+{
+  "name": "ขุนช้างสร้างเรื่อง",
+  "description": "ขุนช้างสร้างเรื่อง - สตูดิโอโปรดิวเซอร์ละครไทยแนวตั้ง AI พร้อมระบบสร้างบทต่อเนื่อง 1-20 ฉาก เสียงพากย์ภาษาไทย โปสเตอร์ 4K และรวมวิดีโอส่งออก",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
